@@ -2,7 +2,7 @@
 - 👀 I’m interested in ServiceNow Developer
 - 🌱 I’m currently learning ML nd AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alanbinu12@outlok.com
+- 📫 How to reach me , i am always here
 
 <!---
 JaferKorian/JaferKorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
